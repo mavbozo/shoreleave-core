@@ -4,6 +4,5 @@
   :license {:name "Eclipse Public License - v 1.0"
             :url "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo
-            :comments "See the notice in README.mkd or details in
-            LICENSE_epl.html"})
+            :comments "See the notice in README.mkd or details in LICENSE_epl.html"})
 
